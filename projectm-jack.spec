@@ -7,7 +7,7 @@ Release:	1
 Summary:	The projectM visualization plugin for jack
 Group:		Sound
 License:	GPLv2+ and MIT
-URL:		http://projectm.sourceforge.net/
+URL:		https://projectm.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/projectm/projectM-complete-%{version}-Source.tar.gz
 BuildRequires:	cmake projectm-qt-devel jackit-devel desktop-file-utils
 
